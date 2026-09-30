@@ -1,18 +1,17 @@
-# VPN IP United Arab Emirates — Dr VPN
+# VPN IP United Arab Emirates — Fast, Secure VPN for United Arab Emirates
 
-**VPN IP United Arab Emirates** is a fast, secure and free VPN for Android. Get a **United Arab Emirates IP address**, unblock websites and apps, and protect your privacy on public Wi-Fi.
+**VPN IP United Arab Emirates** is a free, open-source, ad-free VPN app for Android, built for users in United Arab Emirates. It unblocks websites and apps, protects your privacy on public Wi-Fi, and gives you a fast, stable connection.
 
 ## Download
-- 📥 [Download VPN IP United Arab Emirates (APK)](https://github.com/DrvpnTM/app/releases/download/countries-v0.1.4/DrVPN_ae_0.1.4_universal.apk)
-- 🌐 Website: [drvpn.net](https://drvpn.net)
-- 📢 Telegram: [@drVPN_net](https://t.me/drVPN_net)
+➡️ [Download the latest APK](https://github.com/DrvpnTM/vpn-ip-united-arab-emirates/releases/latest)
 
 ## Features
-- One-tap connect, automatic fastest-server selection
-- United Arab Emirates IP address and servers in many other countries
-- VLESS, VMess, Trojan, Shadowsocks, Hysteria2, WireGuard
-- Works under heavy internet restrictions
-- Free and open source
+- One-tap connect, automatic server speed test
+- VLESS, VMess, Reality, Trojan, Shadowsocks, Hysteria2, WireGuard
+- Per-app proxy, routing rules, dark mode
+- Automatic updates
 
-## Keywords
-VPN United Arab Emirates, United Arab Emirates VPN, VPN IP United Arab Emirates, United Arab Emirates IP address, free VPN United Arab Emirates, buy VPN United Arab Emirates, fast VPN United Arab Emirates, Dr VPN
+## Get a subscription
+🌐 [drvpn.net](https://drvpn.net/) · 📢 [Telegram @drVPN_net](https://t.me/drVPN_net)
+
+<sub>Keywords: VPN United Arab Emirates, free VPN United Arab Emirates, fast VPN, VPN IP United Arab Emirates, Android VPN, unblock websites United Arab Emirates.</sub>
